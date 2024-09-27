@@ -16,6 +16,9 @@ geändert wurde, zeigt es an, dass Dateien zum hochladen vorbereitet sind.
 
 ### git add
 
+Ladet einen neuen Datei oder eine Änderung eines existierenden Dateis ins Arbeits-
+verzeichniss der Repository.
+
 ### git commit
 
 ...
