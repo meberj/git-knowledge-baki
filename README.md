@@ -22,6 +22,9 @@ verzeichniss der Repository.
 ### git commit
 
 Speichert eine neue Datei oder Änderungen eines bestehenden Dateis ins Repository. 
+Benutzung:
+	1. git add Dateiname.extension + git commit -m "comment text"
+	2. git commit -a und im geöffneten Fenster hinterlässt man ein comment
 
 ### git log
 
@@ -31,4 +34,11 @@ Zeigt den Verlauf der Commits an, von den Neuesten zum Ältesten.
 
 Erstellt eine Kopie, anders gesagt klont die Dateien vom online Repository ins lokalen 
 Speicher. 
+
+### git pull
+
+Ladet Änderungen einer Repository ins lokalen Speicher und aktualisiert die bestehenden
+lokalen Daten oder fügt die Neue dazu.
+
+
 
