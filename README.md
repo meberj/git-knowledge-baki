@@ -13,6 +13,8 @@ Initialisiert ein neues Git-Repository.
 Zeigt den Status des Arbeitsverzeichnisses und der Staging Area an. 
 Falls ein neuer Datei erstellt wurde oder eine existierende Datei der Repository
 geändert wurde, zeigt es an, dass Dateien zum hochladen vorbereitet sind.
+Weiterhin zeigt es an, ob und wie viele Änderungen lokal verfügbar sind und warnt, 
+dass diese noch ins github hochgeladet werden sollten.
 
 ### git add
 
