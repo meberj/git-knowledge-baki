@@ -26,3 +26,9 @@ Speichert eine neue Datei oder Änderungen eines bestehenden Dateis ins Reposito
 ### git log
 
 Zeigt den Verlauf der Commits an, von den Neuesten zum Ältesten. 
+
+### git clone
+
+Erstellt eine Kopie, anders gesagt klont die Dateien vom online Repository ins lokalen 
+Speicher. 
+
