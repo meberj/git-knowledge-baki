@@ -21,4 +21,5 @@ verzeichniss der Repository.
 
 ### git commit
 
+Speichert eine neue Datei oder Änderungen eines bestehenden Dateis ins Repository. 
 ...
