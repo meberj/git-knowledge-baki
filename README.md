@@ -22,4 +22,7 @@ verzeichniss der Repository.
 ### git commit
 
 Speichert eine neue Datei oder Änderungen eines bestehenden Dateis ins Repository. 
-...
+
+### git log
+
+Zeigt den Verlauf der Commits an, von den Neuesten zum Ältesten. 
