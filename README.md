@@ -40,5 +40,8 @@ Speicher.
 Ladet Änderungen einer Repository ins lokalen Speicher und aktualisiert die bestehenden
 lokalen Daten oder fügt die Neue dazu.
 
+### git push
 
+Ladet die lokale Daten der Repository ins online Verzeichniss, damit diese später oder
+an einen anderen Rechner herunterladbar werden. 
 
